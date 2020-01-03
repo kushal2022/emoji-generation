@@ -1,0 +1,9 @@
+{ 
+    "angry": 0, 
+    "tongue": 1, 
+    "glasses": 2, 
+    "happy": 3, 
+    "sad": 4,
+    "surprised": 5,
+    "neutral": 6
+}
